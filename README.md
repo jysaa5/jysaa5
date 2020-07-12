@@ -15,6 +15,7 @@
   <li>Web Back-End</li>
   <li>AI</li>
   <li>ROS</li>
+  <li>IoT</li>
 </ul>
 
 <div align=center>
