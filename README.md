@@ -14,8 +14,8 @@
 <ul>
   <li>Web Back-End</li>
   <li>AI (Machine Learning & Deep Learning)</li>
-  <li>ROS (Robot Operating System)</li>
   <li>IoT (Internet of Things)</li>
+  <li>ROS (Robot Operating System)</li>
 </ul>
 
 <div align=center>
