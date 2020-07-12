@@ -6,6 +6,14 @@
 
 </div>
 
+<h4> Back-End Developer & Machine Learning Engineer <h/4>
+  <li></li>  
+<h4> Interest </h4>
+<ul>
+  <li>Web Back-End</li>
+  <li>AI</li>
+  <li>ROS</li>
+</ul>
 
 <!--
 **jysaa5/jysaa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
