@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <div align=center>
 
@@ -7,6 +7,9 @@
 </div>
 
 <h3> Back-End Developer & Machine Learning Engineer & Robot Software Engineer</h3>
+<ul>
+  <li>There are so many things I want to do.:laughing:</li>
+</ul>
 <h3> Interest </h3>
 <ul>
   <li>Web Back-End</li>
