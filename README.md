@@ -6,7 +6,7 @@
 
 </div>
 
-<h3> Back-End Developer & Machine Learning Engineer & Robot Software Engineer</h3>
+<h3> Back-End Developer</h3>
 <ul>
   <li>There are so many things I want to do.:laughing:</li>
 </ul>
