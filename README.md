@@ -13,9 +13,9 @@
 <h3> Interest </h3>
 <ul>
   <li>Web Back-End</li>
-  <li>AI</li>
-  <li>ROS</li>
-  <li>IoT</li>
+  <li>AI (Machine Learning & Deep Learning)</li>
+  <li>ROS (Robot Operating System)</li>
+  <li>IoT (Internet of Things)</li>
 </ul>
 
 <div align=center>
