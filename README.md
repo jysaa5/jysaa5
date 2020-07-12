@@ -1,4 +1,4 @@
-### 👋
+### Hi, I'm JooYeon Kim. Just call me Violet!👋
 
 <div align=center>
 
