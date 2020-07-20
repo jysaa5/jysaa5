@@ -13,7 +13,8 @@
 <h3> Interest </h3>
 <ul>
   <li>Web Back-End</li>
-  <li>AI (Machine Learning & Deep Learning)</li>
+  <li>AI (Machine Learning/ Deep Learning/ Reinforcement Learning)</li>
+  <li>BigData</li>
   <li>IoT (Internet of Things)</li>
   <li>ROS (Robot Operating System)</li>
 </ul>
