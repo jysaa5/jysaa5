@@ -19,8 +19,8 @@
   <li>ROS (Robot Operating System)</li>
 </ul>
 
-<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jysaa5&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jysaa5&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
