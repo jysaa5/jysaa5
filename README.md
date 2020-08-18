@@ -1,5 +1,5 @@
-### Hi, I'm JooYeon Kim.👋
-### Just call me Violet!
+### Hi, I'm JooYeon Kim.
+### Just call me Violet! 👋
 
 <div align=center>
 
