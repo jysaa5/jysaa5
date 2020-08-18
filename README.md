@@ -15,6 +15,7 @@
 <ul>
   <li>Back-End</li>
   <li>AI (Machine Learning/ Deep Learning/ Reinforcement Learning)</li>
+  <li>GIS (Geographic Information System) </li>
   <li>BigData</li>
   <li>IoT (Internet of Things)</li>
   <li>ROS (Robot Operating System)</li>
