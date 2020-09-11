@@ -8,9 +8,7 @@
 </div>
 
 <h3> Back-End Developer</h3>
-<ul>
-  <li>There are so many things I want to do.:laughing:</li>
-</ul>
+<br>
 <h3> Interest </h3>
 <ul>
   <li>Back-End</li>
