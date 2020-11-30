@@ -6,7 +6,7 @@
 
 </div>
 
-<h3> Back-End Developer</h3>
+<h3> Developer</h3>
 <br>
 
 <br>
