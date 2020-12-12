@@ -1,4 +1,4 @@
-### Hi, I'm JooYeon Kim. 👋
+### Hi, there. 👋
 
 <div align=center>
 
