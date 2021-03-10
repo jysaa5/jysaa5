@@ -21,9 +21,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jysaa5)](https://www.facebook.com/jysaa5) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jysaa5@gmail.com)](mailto:jysaa5@gmail.com)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jysaa5@naver.com)](https://solved.ac/jysaa5@naver.com)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jysaa5@naver.com)](https://solved.ac/jysaa5@naver.com)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=jysaa5@naver.com)](https://solved.ac/jysaa5@naver.com)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jysaa5)](https://solved.ac/jysaa5)
 </div>
 
 
