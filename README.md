@@ -1,3 +1,5 @@
+김주연 (JooYeon Kim)
+-----
 ### 💁 [CV](https://www.notion.so/1-1-626ec33cff514f988350b42da692372a)
 
 <div align=center>
