@@ -1,12 +1,7 @@
 김주연 (JooYeon Kim)
 -----
 ### 💁 [CV](https://www.notion.so/1-1-626ec33cff514f988350b42da692372a)
-
-<div align=center>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjysaa5)](https://hits.seeyoufarm.com)
-
-</div>
 
 <br>
 <!--
