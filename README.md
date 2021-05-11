@@ -1,4 +1,3 @@
-### 💁 Front-end Developer & AI Application Engineer
 ### 💁 [CV](https://www.notion.so/1-1-626ec33cff514f988350b42da692372a)
 
 <div align=center>
