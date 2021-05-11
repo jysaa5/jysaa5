@@ -1,4 +1,4 @@
-김주연 (JooYeon Kim)
+김주연 (Kim JooYeon)
 -----
 ### 💁 [CV](https://www.notion.so/1-1-626ec33cff514f988350b42da692372a)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjysaa5)](https://hits.seeyoufarm.com)
@@ -17,7 +17,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jysaa5&theme=shades-of-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jysaa5)](https://solved.ac/jysaa5)
 
