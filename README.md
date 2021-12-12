@@ -6,6 +6,8 @@
 <br>
 
 + [Notion](https://pineapple-honey-bee.notion.site/Study-Room-64d12a44e7d9474dbb9636aaa86aeb83)
+<br>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/jysaa5)](https://blog.naver.com/jysaa5) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jooyeon-kim-7ab53618b/)](https://www.linkedin.com/in/jooyeon-kim-7ab53618b/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jysaa5)](https://www.facebook.com/jysaa5) 
