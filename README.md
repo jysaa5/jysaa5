@@ -18,7 +18,7 @@
 
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jysaa5)](https://solved.ac/jysaa5)
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jysaa5)](https://solved.ac/jysaa5)-->
 
 
   
