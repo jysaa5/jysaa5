@@ -1,4 +1,4 @@
-김주연 (Kim JooYeon)
+JooYeon Kim
 -----
 Front-end Developer
 ### 💁 [CV](https://violet-lilac.notion.site/About-JooYeon-626ec33cff514f988350b42da692372a)
