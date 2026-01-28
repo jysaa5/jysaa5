@@ -1,6 +1,6 @@
 JooYeon Kim
 -----
-Front-end Developer
+Front-end Engineer
 <!-- ### 💁 [CV](https://violet-lilac.notion.site/About-JooYeon-626ec33cff514f988350b42da692372a) -->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjysaa5)](https://hits.seeyoufarm.com) -->
 
